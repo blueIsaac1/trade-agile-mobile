@@ -8,9 +8,6 @@ O **Trade Agile Mobile** é um aplicativo móvel desenvolvido com React Native. 
 - [Instalação](#instalação)
 - [Execução](#execução)
 - [Estrutura do Projeto](#estrutura-do-projeto)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-- [Contato](#contato)
 
 ## Requisitos
 
